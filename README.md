@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA Engineer and Software Developer
 ------------------
 
-I have been an automated software tester for 3 years. For the past year, I have been learning JavaScript and various libraries /frameworks and found a passion for web testing and development. my favorite library ,so far, is react and I enjoy making and testing frontend applications!
+I have been an automated software tester for 5 years. For the past year, I have been learning JavaScript and various libraries /frameworks and found a passion for web testing and development. my favorite library ,so far, is react and I enjoy making and testing frontend applications!
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [stanishcody@gmail.com](mailto:stanishcody@gmail.com)
